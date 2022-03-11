@@ -1,0 +1,3 @@
+//Name is the Contact’s Name field, and Account.Name is the Name field of the Account that’s related to the Contact
+
+SELECT Name, Account.Name FROM Contact
